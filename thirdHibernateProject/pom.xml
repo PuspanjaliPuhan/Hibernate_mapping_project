@@ -4,10 +4,10 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.hibernate.project.mine</groupId>
-  <artifactId>secondHibernate</artifactId>
+  <artifactId>thirdHibernateProject</artifactId>
   <version>0.0.1-SNAPSHOT</version>
 
-  <name>secondHibernate</name>
+  <name>thirdHibernateProject</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
@@ -53,7 +53,6 @@
         <artifactId>mysql-connector-j</artifactId>
         <version>8.3.0</version>
     </dependency>
-
   </dependencies>
 
   <build>
